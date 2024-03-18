@@ -27,3 +27,8 @@ Windows: `Scripts\activate.bat`
 
 7.  Run the `converter.py`  
 `$ python3 converter.py`
+
+## Tools Word to HTML
+
+- https://wordtohtml.net/
+- https://wordtohtml.net/content/fr/le-guide-ultime-pour-convertir-des-documents-word-en-html/
